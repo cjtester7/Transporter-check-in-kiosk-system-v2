@@ -1,6 +1,6 @@
 # Best Auctions Transporter Check-In Kiosk — Netlify configuration
-# Version: 2.0.0 (2026-11-16)
-# Serves index-v2.0.0.html at the site root. For each new release, upload the new
+# Version: 2.0.1 (2026-11-16)
+# Serves index-v2.0.1.html at the site root. For each new release, upload the new
 # index-vX.Y.Z.html and change the "to" path below (and this header's version).
 
 [build]
@@ -9,7 +9,7 @@
 # Site root shows the current version
 [[redirects]]
   from = "/"
-  to = "/index-v2.0.0.html"
+  to = "/index-v2.0.1.html"
   status = 200
   force = true
 
